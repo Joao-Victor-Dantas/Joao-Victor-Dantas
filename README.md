@@ -83,19 +83,6 @@ english:   in progress @ Yázigi
 
 ---
 
-## `$ history --experience`
-
-**Integrations & AI Developer** — *Self-employed / Freelance* · `2026 — present`
-> System integrations across platforms and APIs · AI agents and AI-powered solutions · workflow orchestration with n8n · end-to-end delivery, from design to deploy.
-
-**Systems Analyst** — *Kentro Sistemas* · `2024 — 2025`
-> WhatsApp chatbot development · integrations and automation in JavaScript · data processing and modeling for Power BI · GCP, BigQuery and VM instances · C# and PostgreSQL.
-
-**IT Technician** — *Guedes & Paixão* · `2018 — 2024`
-> Network infrastructure, structured cabling and racks · VPS and server setup · monitoring with UniFi Controller and Zabbix · Active Directory and pfSense · hardware maintenance.
-
----
-
 ## `$ ls ~/what-i-build`
 
 ```
